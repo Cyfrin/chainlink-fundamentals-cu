@@ -38,7 +38,7 @@ contract Sender is Ownable {
 
     constructor() Ownable(msg.sender) {}
 
-    function transferUSDC(
+    function transferTokens(
         address _receiver,
         uint256 _amount,
         address _target

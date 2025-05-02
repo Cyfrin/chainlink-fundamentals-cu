@@ -37,7 +37,7 @@ contract CCIPTokenSender is Ownable {
 
     constructor() Ownable(msg.sender) {}
 
-    function transferUSDC(
+    function transferTokens(
         address _receiver,
         uint256 _amount
     )
