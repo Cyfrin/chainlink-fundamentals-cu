@@ -56,7 +56,7 @@ Please refer to this for an in-depth explanation of the content:
 
 <p align="center">
 <a href="https://" target="_blank">
-        <img src="./thumbnails/thumbnail.png" width="750" alt="Chainlink Fundamentals">
+        <img src="./thumbnails/chainlink.png" width="750" alt="Chainlink Fundamentals">
       </a>
 </p>
 
