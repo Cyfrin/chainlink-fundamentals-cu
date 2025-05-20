@@ -109,175 +109,175 @@ _[⌨️  How to use this course](https://updraft.cyfrin.io/courses/chainlink-fu
 
 ## Introduction to Solidity
 
-_[⌨️  Introduction to Solidity](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/introduction-to-solidity)_
+_[⌨️  Introduction to Solidity](https://updraft.cyfrin.io/courses/chainlink-fundamentals/smart-contract-and-solidity-fundamentals/introduction-to-solidity)_
 
 ## Libraries and Inheritance 
 
-_[⌨️  Libraries and Inheritance](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/libraries-and-inheritance)_
+_[⌨️  Libraries and Inheritance](https://updraft.cyfrin.io/courses/chainlink-fundamentals/smart-contract-and-solidity-fundamentals/libraries-and-inheritance)_
 
 ## Testnet Funds
 
-_[⌨️  Testnet Funds](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/testnet-funds)_
+_[⌨️  Testnet Funds](https://updraft.cyfrin.io/courses/chainlink-fundamentals/smart-contract-and-solidity-fundamentals/testnet-funds)_
 
 ## Introduction to Remix
 
-_[⌨️  Introduction to Remix](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/introduction-to-remix)_
+_[⌨️  Introduction to Remix](https://updraft.cyfrin.io/courses/chainlink-fundamentals/smart-contract-and-solidity-fundamentals/introduction-to-remix)_
 
 ## Writings an ERC20 Token 
 
-_[⌨️  Writings an ERC20 Token](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/writing-an-erc-20-token)_
+_[⌨️  Writings an ERC20 Token](https://updraft.cyfrin.io/courses/chainlink-fundamentals/smart-contract-and-solidity-fundamentals/writing-an-erc-20-token)_
 
 ## Deploying an ERC-20 Contract 
 
-_[⌨️  Deploying an ERC-20 Contract](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/deploying-an-erc-20-contract)_
+_[⌨️  Deploying an ERC-20 Contract](https://updraft.cyfrin.io/courses/chainlink-fundamentals/smart-contract-and-solidity-fundamentals/deploying-an-erc-20-contract)_
 
 ## Minting Tokens 
 
-_[⌨️  Minting Tokens](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/minting-tokens)_
+_[⌨️  Minting Tokens](https://updraft.cyfrin.io/courses/chainlink-fundamentals/smart-contract-and-solidity-fundamentals/minting-tokens)_
 
 ## Building an ERC-721 (NFT) Token 
 
-_[⌨️  Building an ERC-721 (NFT) Token](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/building-an-erc-721-(NFT)-token)_
+_[⌨️  Building an ERC-721 (NFT) Token](https://updraft.cyfrin.io/courses/chainlink-fundamentals/smart-contract-and-solidity-fundamentals/building-an-erc-721-(NFT)-token)_
 
 # Section 3: Oracles and Chainlink Data Feeds
 
 ## Oracle Concepts 
 
-_[⌨️  Oracle Concepts](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/oracle-concepts)_
+_[⌨️  Oracle Concepts](https://updraft.cyfrin.io/courses/chainlink-fundamentals/oracles-and-chainlink-data-feeds/oracle-concepts)_
 
 ## Chainlink Oracles Overview 
 
-_[⌨️  Chainlink Oracles Overview](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/chainlinkoracles-overview)_
+_[⌨️  Chainlink Oracles Overview](https://updraft.cyfrin.io/courses/chainlink-fundamentals/oracles-and-chainlink-data-feeds/chainlinkoracles-overview)_
 
 ## Chainlink Data Feeds 
 
-_[⌨️  Chainlink Data Feeds](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/chainlink-data-feeds)_
+_[⌨️  Chainlink Data Feeds](https://updraft.cyfrin.io/courses/chainlink-fundamentals/oracles-and-chainlink-data-feeds/chainlink-data-feeds)_
 
 ## Chainlink Price Feeds 
 
-_[⌨️  Chainlink Price Feeds](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/chainlink-price-feeds)_
+_[⌨️  Chainlink Price Feeds](https://updraft.cyfrin.io/courses/chainlink-fundamentals/oracles-and-chainlink-data-feeds/chainlink-price-feeds)_
 
 ## Build Token Shop with Price Feeds 
 
-_[⌨️  Build Token Shop with Price Feeds ](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/build-token-shop-with-price-feeds)_
+_[⌨️  Build Token Shop with Price Feeds ](https://updraft.cyfrin.io/courses/chainlink-fundamentals/oracles-and-chainlink-data-feeds/build-token-shop-with-price-feeds)_
 
 ## Buying Tokens From Token Shop 
 
-_[⌨️  Buying Tokens From Token Shop](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/buying-tokens-from-token-shop)_
+_[⌨️  Buying Tokens From Token Shop](https://updraft.cyfrin.io/courses/chainlink-fundamentals/oracles-and-chainlink-data-feeds/buying-tokens-from-token-shop)_
 
 # Section 4: Chainlink Automation
 
 ## Introduction to Automation 
 
-_[⌨️  Introduction to Automation](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/introduction-to-automation)_
+_[⌨️  Introduction to Automation](https://updraft.cyfrin.io/courses/chainlink-fundamentals/chainlink-automation/introduction-to-automation)_
 
 ## Time Based Automation
 
-_[⌨️  Time Based Automation](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/time-based-automation)_
+_[⌨️  Time Based Automation](https://updraft.cyfrin.io/courses/chainlink-fundamentals/chainlink-automation/time-based-automation)_
 
 ## Custom Logic Automation
 
-_[⌨️  Custom Logic Automation](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/custom-logic-automation)_
+_[⌨️  Custom Logic Automation](https://updraft.cyfrin.io/courses/chainlink-fundamentals/chainlink-automation/custom-logic-automation)_
 
 ## Log Trigger Automation 
 
-_[⌨️  Log Trigger Automation](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/log-trigger-automation)_
+_[⌨️  Log Trigger Automation](https://updraft.cyfrin.io/courses/chainlink-fundamentals/chainlink-automation/log-trigger-automation)_
 
 # Section 5: Chainlink CCIP Tokens 
 
 ## Blockchain Interopability 
 
-_[⌨️  Blockchain Interopability](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/blockchain-interopability)_
+_[⌨️  Blockchain Interopability](https://updraft.cyfrin.io/courses/chainlink-fundamentals/chainlink-ccip-tokens/blockchain-interopability)_
 
 ## CCIP 
 
-_[⌨️  CCIP](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/ccip)_
+_[⌨️  CCIP](https://updraft.cyfrin.io/courses/chainlink-fundamentals/chainlink-ccip-tokens/ccip)_
 
 ## CCIP Transporter 
 
-_[⌨️  CCIP Transporter](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/ccip-transporter)_
+_[⌨️  CCIP Transporter](https://updraft.cyfrin.io/courses/chainlink-fundamentals/chainlink-ccip-tokens/ccip-transporter)_
 
 ## Transerring Tokens Cross Chain with CCIP Part 1 
 
-_[⌨️  Transerring Tokens Cross Chain with CCIP Part 1](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/transferring-tokens-cross-chain-with-ccip-part-1)_
+_[⌨️  Transerring Tokens Cross Chain with CCIP Part 1](https://updraft.cyfrin.io/courses/chainlink-fundamentals/chainlink-ccip-tokens/transferring-tokens-cross-chain-with-ccip-part-1)_
 
 ## Transerring Tokens Cross Chain with CCIP Part 2
 
-_[⌨️  Transerring Tokens Cross Chain with CCIP Part 2](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/transferring-tokens-cross-chain-with-ccip-part-2)_
+_[⌨️  Transerring Tokens Cross Chain with CCIP Part 2](https://updraft.cyfrin.io/courses/chainlink-fundamentals/chainlink-ccip-tokens/transferring-tokens-cross-chain-with-ccip-part-2)_
 
 ## CCIP V1.5 
 
-_[⌨️  CCIP V1.5](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/ccip-v1.5)_
+_[⌨️  CCIP V1.5](https://updraft.cyfrin.io/courses/chainlink-fundamentals/chainlink-ccip-tokens/ccip-v1.5)_
 
 # Section 6: Chainlink CCIP Messages 
 
 ## Chainlink Local 
 
-_[⌨️  Chainlink Local](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/chainlink-local)_
+_[⌨️  Chainlink Local](https://updraft.cyfrin.io/courses/chainlink-fundamentals/chainlink-ccip-messages/chainlink-local)_
 
 ## Using Chainlink Local 
 
-_[⌨️  Using Chainlink Local](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/using-chainlink-local)_
+_[⌨️  Using Chainlink Local](https://updraft.cyfrin.io/courses/chainlink-fundamentals/chainlink-ccip-messages/using-chainlink-local)_
 
 ## Cross Chain Messages 
 
-_[⌨️  Cross Chain Messages](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/cross-chain-messages)_
+_[⌨️  Cross Chain Messages](https://updraft.cyfrin.io/courses/chainlink-fundamentals/chainlink-ccip-messages/cross-chain-messages)_
 
 ## Receiving Cross Chain Messages 
 
-_[⌨️  Receiving Cross Chain Messages](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/receiving-cross-chain-messages)_
+_[⌨️  Receiving Cross Chain Messages](https://updraft.cyfrin.io/courses/chainlink-fundamentals/chainlink-ccip-messages/receiving-cross-chain-messages)_
 
 ## Sending CCIP Messages 
 
-_[⌨️  Sending CCIP Messages](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/sending-ccip-messages)_
+_[⌨️  Sending CCIP Messages](https://updraft.cyfrin.io/courses/chainlink-fundamentals/chainlink-ccip-messages/sending-ccip-messages)_
 
 # Section 7: Chainlink Functions
 
 ## Introduction to Chainlink Functions 
 
-_[⌨️  Introduction to Chainlink Functions](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/introduction-to-chainlink-functions)_
+_[⌨️  Introduction to Chainlink Functions](https://updraft.cyfrin.io/courses/chainlink-fundamentals/chainlink-functions/introduction-to-chainlink-functions)_
 
 ## Chainlink Functions Playground 
 
-_[⌨️  Chainlink Functions Playground](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/chainlink-functions-playground)_
+_[⌨️  Chainlink Functions Playground](https://updraft.cyfrin.io/courses/chainlink-fundamentals/chainlink-functions/chainlink-functions-playground)_
 
 ## Building a Functions Smart Contract 
 
-_[⌨️  Building a Functions Smart Contract](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/building-a-functions-smart-contract)_
+_[⌨️  Building a Functions Smart Contract](https://updraft.cyfrin.io/courses/chainlink-fundamentals/chainlink-functions/building-a-functions-smart-contract)_
 
 ## Functions Subscription 
 
-_[⌨️  Functions Subscription](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/functions-subscription)_
+_[⌨️  Functions Subscription](https://updraft.cyfrin.io/courses/chainlink-fundamentals/chainlink-functions/functions-subscription)_
 
 # Section 8: Chainlink VRF
 
 ## Introduction to Chainlink VRF 
 
-_[⌨️  Introduction to Chainlink VRF](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/introduction-to-chainlink-vrf)_
+_[⌨️  Introduction to Chainlink VRF](https://updraft.cyfrin.io/courses/chainlink-fundamentals/chainlink-vrf/introduction-to-chainlink-vrf)_
 
 ## Creating a VRF Subscription 
 
-_[⌨️  Creating a VRF Subscription](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/creating-a-vrf-subscription)_
+_[⌨️  Creating a VRF Subscription](https://updraft.cyfrin.io/courses/chainlink-fundamentals/chainlink-vrf/creating-a-vrf-subscription)_
 
 ## VRF in a Smart Contract 
 
-_[⌨️  VRF in a Smart Contract](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/vrf-in-a-smart-contract)_
+_[⌨️  VRF in a Smart Contract](https://updraft.cyfrin.io/courses/chainlink-fundamentals/chainlink-vrf/vrf-in-a-smart-contract)_
 
 # Section 9: Chainlink Data Streams
 
 ## Introduction to Data Streams 
 
-_[⌨️  Introduction to Data Streams](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/introduction-to-data-streams)_
+_[⌨️  Introduction to Data Streams](https://updraft.cyfrin.io/courses/chainlink-fundamentals/chainlink-data-streams/introduction-to-data-streams)_
 
 ## Data Streams in a Smart Contract 
 
-_[⌨️  Data Streams in a Smart Contract](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/data-streams-in-a-smart-contract)_
+_[⌨️  Data Streams in a Smart Contract](https://updraft.cyfrin.io/courses/chainlink-fundamentals/chainlink-data-streams/data-streams-in-a-smart-contract)_
 
 # Section 10: Chainlink Proof of Reserve 
 
 ## Introduction to Proof of Reserve 
 
-_[⌨️  Introduction to Proof of Reserve](https://updraft.cyfrin.io/courses/chainlink-fundamentals/introduction-to-chainlink-fundamentals/introduction-to-proof-of-reserve)_
+_[⌨️  Introduction to Proof of Reserve](https://updraft.cyfrin.io/courses/chainlink-fundamentals/chainlink-proof-of-reserve/introduction-to-proof-of-reserve)_
 
 # Certification: Chainlink Fundamentals
 
