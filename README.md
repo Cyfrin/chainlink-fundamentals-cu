@@ -121,7 +121,7 @@ _[⌨️  Testnet Funds](https://updraft.cyfrin.io/courses/chainlink-fundamental
 
 ## Introduction to Remix
 
-_[⌨️  Introduction to Remix](https://updraft.cyfrin.io/courses/chainlink-fundamentals/smart-contract-and-solidity-fundamentals/introduction-to-remix)_
+_[⌨️  Introduction to Remix](https://updraft.cyfrin.io/courses/chainlink-fundamentals/smart-contract-and-solidity-fundamentals/Introduction-to-remix)_
 
 ## Writings an ERC20 Token 
 
