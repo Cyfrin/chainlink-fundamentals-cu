@@ -287,13 +287,15 @@ _[⌨️  Proficiency Exam](https://updraft.cyfrin.io/courses/chainlink-fundamen
 
 Transparency is important! So we want to disclose any potential conflicts that might have affected my judgement so you can pick tools that are right for you. Patrick is co-founder of Alpha Chain, a blockchain infrastructure company. Alpha Chain runs **Chainlink, Ethereum, Binance, Polygon, Harmony, Solana, Moonbeam, and Moonriver blockchain services.** Alpha Chain often works with Alchemy and receives discounted services. Patrick is the co-founder of Cyfrin, and they do smart contract security & auditing services. Patrick is also the co-founder of Chain Accel, who is an advisor on the Peeranha project.
 
-Because of all this, I have added alternatives to each section where we suggest a tool.
+Additionally, the [Chainlink documentation](https://docs.chain.link/) was fundamental in the creation of this course!
 
 # Sponsors
 
 A huge thank you to our sponsors. These are the groups and technologies
 
 # Thank you
+
+Firstly, a big shout out to the [Chainlink Labs](https://chainlinklabs.com/) team, without whom, this would not have been possible.
 
 Thanks to everyone who is taking, participating in, and working on this course. It's been a passion project and a data dump of everything I've learnt in the web3 space to get you up to speed quickly. Also, a big thank you to Cyfrin & Chain Accel for encouraging this course to come to light, and many, many, many people from the community.
 
